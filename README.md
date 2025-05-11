@@ -1,4 +1,4 @@
-=== PWA Install Notification ===
+
 Contributors: SajjadAtaei
 Tags: WordPress plugin, Requirement to upload national ID card and add to shopping cart
 Requires at least: 5.0
